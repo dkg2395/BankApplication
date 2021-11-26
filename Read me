@@ -10,5 +10,5 @@
 
 6. Load Balancing
 
-7. Zipkin Server Implemented
+7. Zipkin Server Implemented   ( Need to run Zipkin server to trace all the api hits )
 
